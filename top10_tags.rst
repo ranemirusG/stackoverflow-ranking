@@ -1,0 +1,12 @@
+| Rank | Tag | Frequency |
+| ---- | --- | --------- |
+| 1. | javascript | 211 |
+| 2. | git | 161 |
+| 3. | python | 148 |
+| 4. | java | 62 |
+| 5. | html | 57 |
+| 6. | c# | 47 |
+| 7. | string | 45 |
+| 8. | css | 44 |
+| 9. | arrays | 43 |
+| 10. | jquery | 42 |
